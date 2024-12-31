@@ -6,7 +6,7 @@ Run newRegionMerge.m first, then other files can be called automatically.
 
 These codes have been tested on MATLAB 2017b with windows 7 operating system.
 
-High-quality regional merge results are placed in Baidu Netdisk .URL：：https://pan.baidu.com/s/1FZIPL-UpG8AGlHXmJFiRVg?pwd=49ss The password：49ss。
+High-quality regional merge results are placed in Baidu Netdisk .URL：： https://pan.baidu.com/s/1m0q_RnIB_F99pcpiQC-bOw?pwd=rbsa The password：rbsa。
  
  The number X in thefile name "Figurex" corresponds to the figure in the manuscript.
  
