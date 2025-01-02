@@ -1,20 +1,15 @@
 # merging
-Region-merging
-A demo for the unsupervised superpixel region-mergeing.
+Here we provide a demo code and high-precision figures for our Global-RS.
 
-Run newRegionMerge.m first, then other files can be called automatically.
+Run the file newRegionMerge.m first, then the needed other files can be called automatically.
 
-These codes have been tested on MATLAB 2017b with windows 7 operating system.
+This code has been tested on the MATLAB 2017b in a windows 10 operating system.
 
-High-quality regional merge results are placed in Baidu Netdisk .URL： (https://github.com/nlpanxinxin/picture)
- 
- The number X in thefile name "Figurex" corresponds to the figure in the manuscript.
- 
- X. Pan, S. Xu, Q. Ye, X. Yang and L. Fu ,et al.
 
-For more help, please contact us by Email: xbyang@njifu.edu.cn
+For the HQS code in C++, avaiable at https://github.com/nlpanxinxin/picture.
+For the BDCN in Python, avaiable at https://github.com/pkuCactus/BDCN.
 
-the BDCN code :https://github.com/pkuCactus/BDCN
 
-the RCF code :https://github.com/yun-liu/RCF-PyTorch
+As for the high-resolution figures, please see the attached SLIDE file "figure_x.pptx", where x=1,2,..., corresponding to the figures numbered in the manuscript.
 
+For more details, please contact us by Email address: xbyang@njfu.edu.cn or  xinxin@njfu.edu.cn. 
