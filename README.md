@@ -6,7 +6,7 @@ Run the file newRegionMerge.m first, then the needed other files can be called a
 This code has been tested on the MATLAB 2017b in a windows 10 operating system.
 
 
-For the HQS code in C++, avaiable at https://github.com/nlpanxinxin/picture.
+For the HQS code in C++, avaiable at https://github.com/YunyangXu/HQSGRD.
 For the BDCN in Python, avaiable at https://github.com/pkuCactus/BDCN.
 
 
